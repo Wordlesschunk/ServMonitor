@@ -48,7 +48,7 @@ function formatSize( $bytes )
 <?php //echo "$du of $dt used"; ?>
 <?php //echo "$df of $dt free"; ?>
       
-<h1>ServMonitor | BETA 0.0.1</h1>
+<h1>ServMonitor | BETA 0.0.2</h1>
     <div class="container">
   <div class="row">
     <div class="col">
